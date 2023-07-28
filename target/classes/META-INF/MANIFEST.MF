@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: seniz.sozer
+Build-Jdk: 11.0.12
+Implementation-Title: Spring Boot Profiles Example
+Implementation-Version: 1.0
+Implementation-Vendor-Id: org.springframework.boot
+Implementation-URL: https://www.mkyong.com
+Created-By: Maven Integration for Eclipse
+
